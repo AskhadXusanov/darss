@@ -1,0 +1,40 @@
+.ota{
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+}
+.bola{
+    display: flex;
+    background-color: brown;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    color: white;
+}
+.ota2{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+   padding: 30px 20px 30px 20px; 
+   margin: 0px 600px 0px 600px;
+   border-radius: 20px;
+}
+.bolala{
+    background-color: green;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    border: crimson 20px;
+    margin: 0px 50px 0px 50px;
+}
+.ota3{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
